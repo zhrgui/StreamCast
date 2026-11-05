@@ -1,0 +1,16 @@
+decord
+opencv-python
+pillow
+scenedetect
+insightface
+onnxruntime-gpu
+spacy
+scipy
+setuptools
+einops
+psutil
+tqdm
+scikit-learn
+python_speech_features
+ffmpeg
+youtube-dl
